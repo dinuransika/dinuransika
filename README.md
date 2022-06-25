@@ -1,4 +1,10 @@
-### Hi there 👋
+## Dinura Dissanayake
+
+Third Year Undergraduate of the Department of Computer Engineering, Unversity of Peradeniya.
+
+[![Linkedin](https://nuwanjaliyagoda.com/assets/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/)
+[![Facebook](https://nuwanjaliyagoda.com/assets/img/ico/facebook-128.png)](https://www.facebook.com/dinura.r.dissanayake)
+[![Hackerrank](https://nuwanjaliyagoda.com/assets/img/ico/hackerrank-128.png)](https://www.hackerrank.com/dinuraransika)
 
 <!--
 **dinuransika/dinuransika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
