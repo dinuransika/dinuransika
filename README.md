@@ -2,7 +2,7 @@
 
 Third Year Undergraduate of the Department of Computer Engineering, Unversity of Peradeniya.
 
-Web = [dinuransika.github.io](https://dinuransika.github.io/)
+Web - [dinuransika.github.io](https://dinuransika.github.io/)
 
 [![Linkedin](https://nuwanjaliyagoda.com/assets/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/)
 [![Facebook](https://nuwanjaliyagoda.com/assets/img/ico/facebook-128.png)](https://www.facebook.com/dinura.r.dissanayake)
