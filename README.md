@@ -5,9 +5,10 @@ For more information check my resume from [here](https://dinuransika.github.io/C
 
 Web - [dinuransika.github.io](https://dinuransika.github.io/)
 
-[![Linkedin](https://nuwanjaliyagoda.com/assets/img/ico/linkedin-128.png)](https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/)
-[![Facebook](https://nuwanjaliyagoda.com/assets/img/ico/facebook-128.png)](https://www.facebook.com/dinura.r.dissanayake)
-[![Hackerrank](https://nuwanjaliyagoda.com/assets/img/ico/hackerrank-128.png)](https://www.hackerrank.com/dinuraransika)
+[![Linkedin](https://dinuransika.github.io/assets/img/linkedin-128.png)](https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/)
+[![Facebook](https://dinuransika.github.io/assets/img/facebook-128.png)](https://www.facebook.com/dinura.r.dissanayake)
+[![Hackerrank](https://dinuransika.github.io/assets/img/hackerrank-128.png)](https://www.hackerrank.com/dinuraransika)
+[![Instagram](https://dinuransika.github.io/assets/img/Instagram-Icon.png)](https://www.instagram.com/dissanayakedinura/)
 
 <!--
 **dinuransika/dinuransika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
