@@ -1,7 +1,7 @@
 ## Dinura Dissanayake
 
 Third Year Undergraduate of the Department of Computer Engineering, Unversity of Peradeniya.\
-For more information check my resume from here - [Resume](https://dinuransika.github.io/CV/CV_Dinura.pdf)
+For more information check my resume from [here](https://dinuransika.github.io/CV/CV_Dinura.pdf).
 
 Web - [dinuransika.github.io](https://dinuransika.github.io/)
 
