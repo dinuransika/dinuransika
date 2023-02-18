@@ -10,4 +10,7 @@ Web - [dinuransika.github.io](https://dinuransika.github.io/)
 [![Hackerrank](https://dinuransika.github.io/assets/img/hackerrank-128.png)](https://www.hackerrank.com/dinuraransika)
 [![Instagram](https://dinuransika.github.io/assets/img/Instagram-Icon.png)](https://www.instagram.com/dissanayakedinura/)
 
+
+<a href="https://stackoverflow.com/users/20898455/dinura-dissanayake"><img src="https://stackoverflow.com/users/flair/20898455.png?theme=dark" width="208" height="58" alt="profile for Dinura Dissanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dinura Dissanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinuransika&theme=dark)](https://git.io/streak-stats)
