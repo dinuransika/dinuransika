@@ -14,3 +14,6 @@ Web - [dinuransika.github.io](https://dinuransika.github.io/)
 <a href="https://stackoverflow.com/users/20898455/dinura-dissanayake"><img src="https://stackoverflow.com/users/flair/20898455.png?theme=dark" width="208" height="58" alt="profile for Dinura Dissanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dinura Dissanayake at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dinuransika&theme=dark)](https://git.io/streak-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dinuransika&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dinuransika&langs_count=5&theme=tokyonight)]()
+
