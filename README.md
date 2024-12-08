@@ -1,6 +1,6 @@
 ## Dinura Dissanayake
 
-Third Year Undergraduate of the Department of Computer Engineering, Unversity of Peradeniya.\
+Research Associate Mohamed bin Zayed University of Artificial Intelligence.\
 For more information check my resume from [here](https://dinuransika.github.io/CV/CV_Dinura.pdf).
 
 Web - [dinuransika.github.io](https://dinuransika.github.io/)
