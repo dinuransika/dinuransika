@@ -1,4 +1,5 @@
-## Dinura Dissanayake
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=dinuransika&show_icons=true&theme=transparent&hide_title=true&hide_rank=true" alt="stat" />
+<img align="right" src="https://komarev.com/ghpvc/?username=dinuransika" alt="dinuransika" />
 
 Research Associate Mohamed bin Zayed University of Artificial Intelligence.\
 For more information check my resume from [here](https://dinuransika.github.io/CV/CV_Dinura.pdf).
