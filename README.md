@@ -8,6 +8,7 @@ For more information check my resume from [here](https://dinuransika.github.io/C
 
 Web - [dinuransika.github.io](https://dinuransika.github.io/)
 
+[![Google Scholar](https://dinuransika.github.io/assets/img/scholar.png)](https://scholar.google.com/citations?user=HVIV99gAAAAJ&hl=en)
 [![Linkedin](https://dinuransika.github.io/assets/img/linkedin-128.png)](https://www.linkedin.com/in/dinura-dissanayake-9486ba1a1/)
 [![Facebook](https://dinuransika.github.io/assets/img/facebook-128.png)](https://www.facebook.com/dinura.r.dissanayake)
 [![Hackerrank](https://dinuransika.github.io/assets/img/hackerrank-128.png)](https://www.hackerrank.com/dinuraransika)
